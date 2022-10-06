@@ -11,7 +11,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 - ### Machine Learning
 
-	- [Chennai House Prices](https://github.com/shaizm/data_science_portfolio/blob/main/chennai_house_price/Chennai%20House%20Prices.ipynb): A model to predict the value of a given house in Chennai,india; real estate market using various statistical analysis tools and finding the factors that leads to high selling price. Identified the best price that a client can sell their house utilizing machine learning.
+	- [Chennai House Prices](https://github.com/shaizm/data_science_portfolio/blob/main/chennai_house_price/Chennai%20House%20Prices.ipynb): A model to predict the value of a given house in Chennai,india; real estate market using indepth statistical analysis and finding the factors that leads to high selling price. Identified the best price that a client can sell their house utilizing machine learning.
   
   _Tools:Scikit-learn,Pandas, Matplotlib, Numpy, Plotly, Seaborn_ 
 
