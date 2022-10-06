@@ -15,8 +15,9 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
   
   _Tools:Scikit-learn,Pandas, Matplotlib, Numpy, Plotly, Seaborn_ 
 
-### Analysis and Visualization
+- ### Analysis and Visualization
 
-  -[Occupation](https://github.com/shaizm/data_science_portfolio/blob/main/occupation/Occupation.ipynb): Using visualization to understand the ratio of indian men and women involved in professional fields and also understand  the contribution of each community in specific fields.
+  	- [Occupation](https://github.com/shaizm/data_science_portfolio/blob/main/occupation/Occupation.ipynb): Using visualization to understand the ratio
+of indian men and women involved in professional fields and also understand  the contribution of each community in specific fields.
   
   _Tools:Pandas, Matplotlib, scipy_ 
