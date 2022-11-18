@@ -25,8 +25,8 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 of indian men and women involved in professional fields and also understand  the contribution of each community in specific fields.
   
   _Tools:Pandas, Matplotlib, scipy_ 
-
-	- [Store Sales](https://github.com/shaizm/data_science_portfolio/Store Sales/Demand Forecasting.ipynb): Using Time Series Analysis and visualization to read the underlying pattern, Trend and seasonality of items in each store.
+  
+	- [Store Sales](https://github.com/shaizm/data_science_portfolio/blob/main/occupation/Occupation.ipynb): Using Time Series Analysis and visualization to read the underlying pattern, Trend and seasonality of items in each store.
   
   _Tools:Pandas, Numpy, Seaborn, plotly, Matplotlib, statsmodels_ 
   
