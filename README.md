@@ -32,6 +32,7 @@ of indian men and women involved in professional fields and also understand  the
   
   
 ## Deployed
+	
 	- Predict the house price in Chennai by clicking [here](http://shaiz.pythonanywhere.com/).
  
  _Tools:Flask, HTML, Seaborn, Python_
