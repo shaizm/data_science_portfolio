@@ -30,7 +30,7 @@ of indian men and women involved in professional fields and also understand  the
   
   _Tools:Pandas, Numpy, Seaborn, plotly, Matplotlib, statsmodels_ 
   
-  -### Deployed
-  	-Predict the house price in Chennai by clicking [here](http://shaiz.pythonanywhere.com/)
+  - ### Deployed
+  	- Predict the house price in Chennai by clicking [here](http://shaiz.pythonanywhere.com/).
  
- 	_Tools:Flask, HTML, Seaborn, Python, Matplotlib, statsmodels_
+ _Tools:Flask, HTML, Seaborn, Python_
