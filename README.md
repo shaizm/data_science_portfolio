@@ -30,6 +30,13 @@ of indian men and women involved in professional fields and also understand  the
   
   _Tools:Pandas, Numpy, Seaborn, plotly, Matplotlib, statsmodels_ 
   
+- ### Natural Language Processing (NLP)
+
+  	- [ATS Tracker](https://github.com/shaizm/data_science_portfolio/blob/main/ATS%20Tracker%20(NLP)/ATS%20Friendly%20Resume%20Tracker.ipynb): Using keywords and frequencies to understand the compatibility of a resume with the job description to increase the probability of getting shortlisted by ATS.
+of indian men and women involved in professional fields and also understand  the contribution of each community in specific fields.
+  
+  _Tools:NLTK, RegEx, Pandas, Matplotlib, Wordcloud_ 
+  
   
 ## Deployed
 
