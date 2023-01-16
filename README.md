@@ -37,7 +37,7 @@ of indian men and women involved in professional fields and also understand  the
   _Tools:NLTK, RegEx, Pandas, Matplotlib, Wordcloud_ 
   
 - ### Business Intelligence Dashboard (Power BI)
-  	- [Global Sales](https://github.com/shaizm/data_science_portfolio/blob/main/BI%20Dashboard%20(PowerBI)/sales_data_v2.pdf): Interactive tool to visualize the global sales, profit and loss, leading and losing products all on a single page to understand the current situation of business.
+  	- [Global Sales](https://github.com/shaizm/data_science_portfolio/tree/main/BI%20Dashboard%20(PowerBI)): Interactive tool to visualize the global sales, profit and loss, leading and losing products all on a single page to understand the current situation of business.
 	
   _Tools:Power BI
   
